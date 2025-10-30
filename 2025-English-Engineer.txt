@@ -1,0 +1,57 @@
+Lerner Zhang
+Shanghai | 13122528038 | lerner.zhang@gmail.com
+
+Objective
+Seeking a full-time position leveraging my 9+ years of experience in natural language processing, knowledge graph construction, AI algorithms, and full-stack product development. Passionate about building intelligent systems that empower learning and user interaction.
+
+Education
+Hunan University of Science and Technology, Xiangtan, Hunan Bachelor's degree | 2009 – 2013 Major: Education Technology | GPA: 3.5
+East China Normal University, Putuo, Shanghai Academic Master’s degree | 2013 – 2016 Major: Education Technology | GPA: top 5% Thesis: An Open Source Approach to EFL Writing Technology
+
+Experience
+Founder & Full-Stack Engineer | Vocabulary Journal | Remote
+Nov 2022 – Oct 2025
+	•	Designed and built a PWA and website to help language learners expand vocabulary through journaling.
+	•	Conducted user interviews, designed UX/UI, and iterated based on user feedback. 
+	•	Developed frontend using Lit, TypeScript, and Vite; backend with Flask, Gunicorn, and PostgreSQL. 
+	•	Managed all aspects of the product lifecycle from idea validation to deployment and growth.
+
+AI Algorithm Tech Lead | Zhihuishu | Shanghai
+Oct 2021 – Nov 2022
+	•	Led AI team in building large-scale course knowledge graphs.
+	•	Developed OCR pipelines to digitize educational books and link extracted content with structured knowledge concepts. 
+	•	Designed and implemented concept graphs connecting concepts, book locations, and exercises for adaptive learning.
+	•	Collaborated with cross-functional teams to integrate AI-driven content recommendation systems.
+
+Senior Algorithm Engineer | Alibaba Group - Banma | Shanghai
+May 2019 – Oct 2021
+	•	Developed intent detection, slot filling, and entity linking models using BERT, CRF, and KBERT.
+	•	Reduced false positives in addressee detection from 5% to 1.4% and increased recall from 84% to 93%.
+	•	Implemented continual learning pipelines, data drift monitoring, and student–teacher model distillation for MLOps.
+
+AI Algorithm Engineer | ifchange.com | Shanghai
+Oct 2018 – Jan 2019
+	•	Implemented deep models for person-job fit and resume ranking.
+	•	Conducted NLP experiments on selectional preferences using CRF, word2vec, and PMI.
+
+NLP Researcher | deepbrain.ai | Shanghai
+Nov 2015 – Sep 2018
+	•	Worked on text summarization, experimenting with Seq2Seq, GAN, and hybrid decoding architectures.
+	•	Developed extractive summarization library and entity recognition models using CRF and large-scale web data.
+
+Skills
+Python, TypeScript, SQL, R, Flask, PostgreSQL, Lit, Vite, Gunicorn, Docker, Linux, C++, Java, Machine Learning, NLP, Knowledge Graphs, OCR, MLOps
+
+Awards & Acknowledgments
+	•	IELTS: 6.5 | CET-6: 521
+	•	National Encouragement Award (2012)
+	•	25K reputation on StackExchange
+
+Courses
+	•	CS224N – NLP with Deep Learning
+	•	CS230 – Deep Learning
+	•	CS228 – Probabilistic Graphical Models
+	•	Algorithmic Toolbox
+	•	Algorithms on Graphs
+	•	Linear Regression
+	•	Inferential Statistics
