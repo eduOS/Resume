@@ -11,7 +11,7 @@ East China Normal University, Putuo, Shanghai Academic Master’s degree | 201
 Experience
 Founder & Full-Stack Engineer | Vocabulary Journal | Remote
 Nov 2022 – Oct 2025
-	•	Designed and built a PWA and website to help language learners expand vocabulary through journaling.
+	•	Designed and built a Chrome extension, a PWA, and a website to help language learners expand vocabulary through journaling.
 	•	Conducted user interviews, designed UX/UI, and iterated based on user feedback. 
 	•	Developed frontend using Lit, TypeScript, and Vite; backend with Flask, Gunicorn, and PostgreSQL. 
 	•	Managed all aspects of the product lifecycle from idea validation to deployment and growth.
